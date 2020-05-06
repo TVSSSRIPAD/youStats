@@ -1,0 +1,24 @@
+.welcome{
+    padding: 10px;
+    margin: 10vh auto;
+    border-radius: 10px;
+    
+}
+.welcome-text{
+    font-size: 26px;
+}
+body{
+    background-color: #E9ECEF;
+}
+.brand-text{
+    color: wheat!important;
+    margin: auto auto;
+}
+.card{
+    background-color: #333!important;
+    color: whitesmoke;
+}
+.i5{
+    margin-right: 0px;
+    padding-right: 0px;
+}
